@@ -73,8 +73,14 @@ background-color: rgba(244, 244, 244, 1);
     background-color: transparent;
 }
 
+h2 {
+    background-color: rgba(17, 17, 17, .2);
+    margin: 0px 450px;
+}
+
 @media (max-width: 568px) {
     .img1, .img2, .img3{
         background-attachment: scroll;
     }
 }
+
