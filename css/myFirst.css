@@ -18,7 +18,7 @@ body, html {
 }
 
 .img1 {
-    background-image: url("../img/cliffSide1.jpg") ;
+    background-image: url("../img/cliffSide2.jpg") ;
     min-height: 100%;
 }
 
@@ -73,10 +73,10 @@ background-color: rgba(244, 244, 244, 1);
     background-color: transparent;
 }
 
-h2 {
-    background-color: rgba(17, 17, 17, .2);
-    margin: 0px 450px;
-}
+/*h2 {*/
+    /*background-color: rgba(17, 17, 17, .2);*/
+    /*margin: 0px 450px;*/
+/*}*/
 
 @media (max-width: 568px) {
     .img1, .img2, .img3{
