@@ -23,7 +23,11 @@ body, html {
 }
 
 .img2 {
+<<<<<<< HEAD
     background-image: url("../img/crestTrail1.jpg");
+=======
+   background-image: url("../img/crestTrail1.jpg");
+>>>>>>> b2e6816e6213297a0f5e5b79c0f42dd93f564b9f
     min-height: 400px ;
 }
 
@@ -38,7 +42,11 @@ body, html {
 }
 
 .section-lt {
+<<<<<<< HEAD
     background-color: rgba(244, 244, 244, 1);
+=======
+background-color: rgba(244, 244, 244, 1);
+>>>>>>> b2e6816e6213297a0f5e5b79c0f42dd93f564b9f
     color: #555;
 }
 
@@ -83,3 +91,7 @@ h2 {
         background-attachment: scroll;
     }
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> b2e6816e6213297a0f5e5b79c0f42dd93f564b9f
